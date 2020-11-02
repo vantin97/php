@@ -50,7 +50,7 @@
                 if($query){
                     echo "Thêm dữ liệu thành công";
                 }else{
-                    echo 'thai bai';
+                    echo 'ha van tin';
                 }
             }
         }
